@@ -1,14 +1,14 @@
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
+
+
+
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/Ba-hub/uploader.git">
-    <img src="logo.jpg" alt="Logo" width="100" height="100">
+    <img src="logo.jpg" alt="Logo" width="100%" height="30%">
   </a>
 
   <h3 align="center">uploader</h3>
